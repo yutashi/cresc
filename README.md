@@ -25,7 +25,7 @@ You can check available sound devices.
 python3 show-devices.py
 ```
 
-Playing recorder saound.
+Playing a recorder sound.
 
 ```
 python3 basics/play-wave-threading.py samples/c-full.wave
